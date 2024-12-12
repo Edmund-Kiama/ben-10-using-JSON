@@ -1,0 +1,70 @@
+#character-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.charStyle {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.charStyle:hover {
+    background-color: black;
+    color: white;
+}
+#name {
+    text-align: center;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#details-image {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; 
+}
+#image {
+    height: 300px;
+    margin: 10px;
+}#description {
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+}
+/* .logo {
+    background-image: url(https://images8.alphacoders.com/126/1265937.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+}
+#logo{
+    height: 100px;
+    float: left;
+} */
+/* *{
+    margin: 0;
+}
+
+#thoughts,
+
+#grades{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 600px;
+    text-align: center;
+}
+.grade-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

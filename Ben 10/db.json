@@ -1,0 +1,148 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Ben",
+      "image": "https://media.tenor.com/7-5joxGQB0YAAAAM/ben-10-benjamin-kirby-tennyson.gif",
+      "description": "Ben Tennyson, the star of the show, is a tenacious and curious young hero who discovers the Omnitrix, a powerful watch-like device that lets him transform into various aliens. Known for his adventurous spirit and witty remarks."
+    },
+    {
+      "id": "2",
+      "name": "Gwen",
+      "image": "https://media.tenor.com/wTX4Xl45uG0AAAAM/reading-gwen-tennyson.gif",
+      "description": "Gwen Tennyson, Ben’s cousin, is a smart and resourceful young girl with a knack for magic and a sharp mind. She’s always there to support Ben, offering wisdom and a no-nonsense attitude."
+    },
+    {
+      "id": "3",
+      "name": "GrandPa Max",
+      "image": "https://media.tenor.com/ZIpM4VH6qlkAAAAM/ben10-max-tennyson.gif",
+      "description": "Grandpa Max Tennyson is a retired Plumber (intergalactic defender) who serves as Ben and Gwen's mentor. Wise and courageous, he’s a reliable guide with a deep knowledge of alien threats."
+    },
+    {
+      "id": "4",
+      "name": "Kevin",
+      "image": "https://media.tenor.com/7qW0yn8NhkEAAAAM/ben10-alien-force.gif",
+      "description": "Kevin Levin starts as a troublemaker but later evolves into an ally. With the ability to absorb materials and transform his body, Kevin balances his tough exterior with a deep sense of loyalty."
+    },
+    {
+      "id": "5",
+      "name": "CharmCaster",
+      "image": "https://media.tenor.com/4WlU59UyAuMAAAAM/charmcaster.gif",
+      "description": "CharmCaster is a powerful sorceress and one of Ben’s recurring foes. She’s cunning, ambitious, and always seeking to outmatch her adversaries with her magical prowess."
+    },
+    {
+      "id": "6",
+      "name": "HeatBlast",
+      "image": "https://media.tenor.com/_RuVU4B8-CMAAAAM/heatblast-ben10.gif",
+      "description": "HeatBlast is one of Ben’s first transformations. This fiery alien is made of living flames, perfect for launching blazing attacks and lighting up dark situations."
+    },
+    {
+      "id": "7",
+      "name": "DiamondHead",
+      "image": "https://media.tenor.com/ayalvQYJbMYAAAAM/what-the-hell-what.gif",
+      "description": "DiamondHead is a crystalline alien capable of growing diamonds on his body. His tough exterior makes him a defensive powerhouse, while his sharp edges make him a formidable offensive force."
+    },
+    {
+      "id": "8",
+      "name": "FourArms",
+      "image": "https://media.tenor.com/MhErdVEoHaYAAAAM/dab-four-arms.gif",
+      "description": "FourArms is a towering alien with immense strength and four muscular arms. Ideal for brute force situations, he’s often Ben’s go-to alien for smashing through obstacles."
+    },
+    {
+      "id": "9",
+      "name": "GhostFreak",
+      "image": "https://media.tenor.com/OKkb7BSESPUAAAAM/ghostfreak-zs-skayr.gif",
+      "description": "GhostFreak is a spectral alien with the power to phase through objects and scare enemies. His eerie appearance and mysterious nature add an edge to Ben’s transformations."
+    },
+    {
+      "id": "10",
+      "name": "RipJaws",
+      "image": "https://media.tenor.com/39VAxZgRU5IAAAAM/ripjaws-ben10.gif",
+      "description": "RipJaws is a fish-like alien with sharp teeth and incredible underwater agility. Perfect for aquatic adventures, he’s a fearsome presence in any watery battle."
+    },
+    {
+      "id": "11",
+      "name": "WildMutt",
+      "image": "https://media.tenor.com/ug-9LnssT5gAAAAM/ben10-wildmutt.gif",
+      "description": "WildMutt is a feral alien with heightened senses and incredible agility. Though he can’t talk, his primal instincts make him a valuable ally in high-stakes situations."
+    },
+    {
+      "id": "12",
+      "name": "StinkFly",
+      "image": "https://media.tenor.com/Z57W4Es-mKAAAAAM/stinkfly-ben-10.gif",
+      "description": "StinkFly is a bug-like alien capable of flying and releasing toxic gas. His quirky appearance masks his usefulness in aerial combat and stealth missions."
+    },
+    {
+      "id": "13",
+      "name": "GreyMatter",
+      "image": "https://media.tenor.com/TmbNLu_okcUAAAAM/grey-matter-ben10.gif",
+      "description": "GreyMatter is a tiny, highly intelligent alien perfect for solving complex problems. Despite his small size, his brilliance is often key to outsmarting enemies."
+    },
+    {
+      "id": "14",
+      "name": "Upgrade",
+      "image": "https://media.tenor.com/BB2Rt7xeAt0AAAAM/upgrade-wave-hello.gif",
+      "description": "Upgrade is a techno-organic alien capable of merging with and enhancing technology. His sleek design and adaptability make him a vital asset in tech-driven conflicts."
+    },
+    {
+      "id": "15",
+      "name": "Xlr8",
+      "image": "https://media.tenor.com/iIJJ4w--72QAAAAM/xlr8-ben10.gif",
+      "description": "Xlr8 is a speedster alien with unmatched velocity and reflexes. With his cheetah-like agility, he’s perfect for chasing down villains or escaping tight situations."
+    },
+    {
+      "id": "16",
+      "name": "WayBig",
+      "image": "https://media.tenor.com/8LdX34oa8EoAAAAM/waybig.gif",
+      "description": "WayBig is a towering alien with immense strength and cosmic energy. His colossal size makes him ideal for taking down giant threats."
+    },
+    {
+      "id": "17",
+      "name": "CanonBall",
+      "image": "https://media.tenor.com/rgKVLttyRRoAAAAM/ben10-cannonball.gif",
+      "description": "CannonBolt is a durable alien who can roll into a powerful ball to crush obstacles and enemies. His playful yet destructive nature makes him a fan favorite."
+    },
+    {
+      "id": "18",
+      "name": "VilGax",
+      "image": "https://media.tenor.com/9cgVmhckc-4AAAAM/vilgax.gif",
+      "description": "VilGax is Ben’s arch-nemesis and a ruthless conqueror. Known for his strength, cunning, and ambition, he constantly seeks to control the Omnitrix."
+    },
+    {
+      "id": "19",
+      "name": "Alien X",
+      "image": "https://media.tenor.com/rGVxAGeICGEAAAAj/alien-x-pat.gif",
+      "description": "Alien X is an all-powerful celestial being capable of reality manipulation. However, his power comes with the challenge of inner deliberations among his personalities."
+    },
+    {
+      "id": "20",
+      "name": "Swamp Fire",
+      "image": "https://media.tenor.com/ARpoGnaGuxoAAAAM/swampfire-ben10.gif",
+      "description": "SwampFire is a plant-like alien with regenerative abilities and the power to release flames. His dual nature of growth and destruction makes him a versatile combatant."
+    },
+    {
+      "id": "21",
+      "name": "Princess Attea",
+      "image": "https://media.tenor.com/YbclbRjrGGoAAAAM/blushing-ben-10.gif",
+      "description": "Princess Attea is a frog-like alien and leader of the Incurseans. Her strategic mind and commanding presence make her a formidable foe."
+    },
+    {
+      "id": "22",
+      "name": "Bull Frog",
+      "image": "https://media.tenor.com/oPuk-zwMVnwAAAAM/ben-10-oliver-10.gif",
+      "description": "BullFrog is a strong and amphibious alien with great agility and resilience. His physical prowess makes him a challenging adversary."
+    },
+    {
+      "id": "23",
+      "name": "Buzz Shock",
+      "image": "https://media.tenor.com/FYH_ZnwiOmoAAAAM/ben-10-oliver-10.gif",
+      "description": "BuzzShock is a small, energetic alien capable of generating and manipulating electricity. Perfect for tech battles, his spark can electrify any fight."
+    },
+    {
+      "id": "24",
+      "name": "Gut Rot",
+      "image": "https://media.tenor.com/GFFgC34ZnR0AAAAM/chemicals-gas.gif",
+      "description": "Gut Rot is a chemical-wielding alien with the ability to release toxic gases. His unusual power is a wild card in combat situations."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Ben 10</title>
+        <meta charset="UTF-8" lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <div class="logo" id="logo"></div>
+        <form id="formId">
+
+            <label for="nameId">Name of alien:</label>
+            <input type="text" required id="nameId">
+
+            <label for="imageUrl">Image Url:</label>
+            <input type="text" required id="imageUrl">
+
+            <label for="descriptionId">Description:</label>
+            <input type="text" required id="descriptionId">
+
+            <button type="submit">Add alien</button>
+        </form>
+
+        <div id="character-bar"></div>
+        
+        <div class="classInfo">
+            <div id="details">
+               
+                <div id="details-image">
+                    <img src="https://media.tenor.com/fd21eoZ9LFkAAAAM/koshi-torako-shikanoko.gif" alt="anime">
+                    <img 
+                        src="https://media.tenor.com/JbnLKar05tAAAAAM/anime-girl-light-blue-hair-anime.gif"
+                        alt="Anime-girl"
+                        id="image"
+                    >
+                    <img src="https://media.tenor.com/fd21eoZ9LFkAAAAM/koshi-torako-shikanoko.gif" alt="Anime-girl">
+                </div>
+                
+                <p id="name">Character Name</p>
+                
+                <div id="description-container">
+                    <p id="description">Hello from beyond the wall !!</p>
+                </div>
+
+                <!-- <div id="thought-container">
+                    <p id="thoughts"></p>
+                </div> -->
+            </div>
+        </div>
+
+        <script src="./main.js"></script>
+    </body>
+</html>
