@@ -25,7 +25,8 @@ const getCharacters = () => {
                 
 
                 let deleteItem = document.createElement('button');
-                deleteItem.textContent = 'Delete';
+                deleteItem.textContent = 'X';
+                deleteItem.classList.add('deleteClass');
 
                 itemContainer.append(itemName);     //<div> <h2>Ben</h2> </div>
                 itemContainer.append(deleteItem);    //<div> <h2>Ben</h2> <button></button></div>                           
@@ -54,7 +55,7 @@ function loadCharacter (id) { //http://localhost:3000/characters/2
 
             document.getElementById('image').src= character.image;
             document.getElementById('description').textContent = character.description;
-            // document.getElementById('thoughts').textContent = `What are your thoughts on ${character.name} ?`;
+            document.getElementById('thoughts').textContent = `What are your thoughts on ${character.name} ?`;
 
         })
         .catch(error => {throw error})

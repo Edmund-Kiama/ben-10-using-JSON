@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 #character-bar {
     display: flex;
     flex-wrap: wrap;
@@ -25,7 +29,6 @@
 }
 
 #details-image {
-    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,12 +37,14 @@
 #image {
     height: 300px;
     margin: 10px;
-}#description {
+}
+#description ,
+#thoughts{
     text-align: center;
     font-size: larger;
     padding: 10px;
 }
-/* .logo {
+.logo {
     background-image: url(https://images8.alphacoders.com/126/1265937.jpg);
     text-align: center;
     background-repeat: no-repeat;
@@ -50,21 +55,54 @@
 #logo{
     height: 100px;
     float: left;
-} */
-/* *{
-    margin: 0;
-}
-
-#thoughts,
-
-#grades{
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+} 
+.deleteClass {
+    background: transparent;
     border: 1px solid black;
     border-radius: 5px;
-    width: 600px;
-    text-align: center;
+    color: red;
+    font: bolder;
+    font-size: large;
+    transition: 0.3s;
 }
-.grade-container {
+.deleteClass:hover {
+    background-color: red;
+    color: black;
+}
+#formId{
+    padding: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
+#submitButton {
+    margin: 5px;
+    width: 80px;
+    height: 30px;
+    background: transparent;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+#submitButton:hover{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    width: 120px;
+    height: 50px;
+
+
+}
+#nameId,
+#descriptionId,
+#imageUrl{
+    margin: 5px;
+    margin-left: 10px;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.473);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
