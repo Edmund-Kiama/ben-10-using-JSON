@@ -1,4 +1,4 @@
-# Character Management App
+# Ben 10 Character Management App
 
 A simple JavaScript application to manage a list of characters. It allows you to view, add, and delete characters from a list. It utilizes `fetch` to interact with a local API (located at `http://localhost:3000/characters/`).
 
@@ -45,7 +45,7 @@ Clicking on a character's name will display detailed information about that char
 - Open the HTML file in a browser.
 - Add characters via the form by providing a name, image URL, and description.
 - View the list of characters as they are fetched from the local API.
-- Click on a character’s name to view their details.
+- Click on a character's name to view their details.
 - Click the delete button to remove a character from the list.
 
 ## License
